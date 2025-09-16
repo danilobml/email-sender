@@ -13,7 +13,7 @@ cd email-sender
 go mod tidy
 ```
 
-### Create a .env file with the variables:
+### Create a .env file in the project folder with the variables:
 
 ```txt
 FROM_EMAIL=
