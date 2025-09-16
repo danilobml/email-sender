@@ -23,7 +23,7 @@ SMTP_ADDR="smtp.gmail.com:587"
 ```
 (Example for Gmail)
 
-Then, add your email address to the first variable, get the password (e.g. in Gmail, go to account settings -> app passwords) and add to the second.
+Then, add your email address to the first variable, get the password (e.g. in Gmail, go to account settings -> app passwords) and add to the second. Modify SMTP and ADDR if not using Gmail.
 
 ### Run app:
 ```bash
