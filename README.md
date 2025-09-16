@@ -2,6 +2,11 @@
 
 ## Usage:
 
+### Clone repository
+```bash
+git clone https://github.com/danilobml/email-sender
+```
+
 ### Create a .env file with the variables:
 
 ```txt
