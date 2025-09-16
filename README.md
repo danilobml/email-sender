@@ -41,3 +41,4 @@ with json body:
   "body": string
 }
 ```
+. to is a list of strings with the addresses you want to send the email to
