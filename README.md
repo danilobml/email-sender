@@ -11,7 +11,7 @@ FROM_EMAIL_SMTP="smtp.gmail.com"
 SMTP_ADDR="smtp.gmail.com:587"
 ```
 
-(for Gmail)
+(Example for Gmail)
 
 ### Run app:
 ```bash
