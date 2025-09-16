@@ -12,7 +12,7 @@ SMTP_ADDR="smtp.gmail.com:587"
 ```
 (Example for Gmail)
 
-Then, add your email address, get the password (e.g. in Gmail, go to account settings -> app passwords)
+Then, add your email address, get the password (e.g. in Gmail, go to account settings -> app passwords) and add
 
 ### Run app:
 ```bash
