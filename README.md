@@ -10,8 +10,9 @@ FROM_EMAIL_PASSWORD=
 FROM_EMAIL_SMTP="smtp.gmail.com"
 SMTP_ADDR="smtp.gmail.com:587"
 ```
-
 (Example for Gmail)
+
+Then, add your email address, get the password (e.g. in Gmail, go to account settings -> app passwords)
 
 ### Run app:
 ```bash
