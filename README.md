@@ -4,10 +4,10 @@
 
 ### Create a .env file with the variables:
 
-FROM_EMAIL=
-FROM_EMAIL_PASSWORD=
-FROM_EMAIL_SMTP="smtp.gmail.com"
-SMTP_ADDR="smtp.gmail.com:587"
+- FROM_EMAIL=
+- FROM_EMAIL_PASSWORD=
+- FROM_EMAIL_SMTP="smtp.gmail.com"
+- SMTP_ADDR="smtp.gmail.com:587"
 
 (for Gmail)
 
