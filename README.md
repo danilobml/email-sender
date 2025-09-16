@@ -7,6 +7,12 @@
 git clone https://github.com/danilobml/email-sender
 ```
 
+### Install dependencies
+```bash
+cd email-sender
+go mod tidy
+```
+
 ### Create a .env file with the variables:
 
 ```txt
