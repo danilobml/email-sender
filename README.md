@@ -20,9 +20,9 @@ go run ./cmd/api
 ```
 
 ### Send POST request:
-to: http://localhost:8080/mail
+url: http://localhost:8080/mail
 
-body:
+with json body:
 ```json
 {
   "to": []string,
